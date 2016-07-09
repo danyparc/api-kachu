@@ -1,0 +1,935 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pla",
+				"planets"
+			],
+			[
+				"cha",
+				"char"
+			],
+			[
+				"char",
+				"character"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"chara",
+				"characterCtrl"
+			],
+			[
+				"confi",
+				"config"
+			],
+			[
+				"te",
+				"templateUrl"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"t",
+				"tasks"
+			],
+			[
+				"l",
+				"lenght"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"day",
+				"days"
+			],
+			[
+				"d",
+				"day"
+			],
+			[
+				"i",
+				"if	if"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"w",
+				"workingHours"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"fo",
+				"for	For Loop"
+			],
+			[
+				"met",
+				"methods"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"imp",
+				"imprimeTicket"
+			],
+			[
+				"art",
+				"articulo"
+			],
+			[
+				"ap",
+				"app"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"co",
+				"cobrar"
+			],
+			[
+				"cant",
+				"cant"
+			],
+			[
+				"ret",
+				"retor"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"su",
+				"subida"
+			],
+			[
+				"pa",
+				"pago"
+			],
+			[
+				"articul",
+				"articulos"
+			],
+			[
+				"ar",
+				"articulo"
+			],
+			[
+				"me",
+				"metodo"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"id",
+				"idTicket"
+			],
+			[
+				"a",
+				"artupla"
+			],
+			[
+				"articulo",
+				"articulo"
+			],
+			[
+				"run",
+				"run_query"
+			],
+			[
+				"ho",
+				"hour"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"se",
+				"select	Tag"
+			],
+			[
+				"ca",
+				"cambio"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"I",
+				"INTO"
+			],
+			[
+				"IN",
+				"INSERT"
+			],
+			[
+				"catn",
+				"cantidad"
+			],
+			[
+				"c",
+				"cantidad"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"m",
+				"mixup"
+			],
+			[
+				"mi",
+				"MixUp_idMixUp"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"rend",
+				"render_template_string"
+			],
+			[
+				"soc",
+				"socioclub"
+			],
+			[
+				"pro",
+				"proveedor"
+			],
+			[
+				"vis",
+				"vista9"
+			],
+			[
+				"vist",
+				"vista4"
+			],
+			[
+				"ser",
+				"servicio"
+			],
+			[
+				"vi",
+				"vista9"
+			],
+			[
+				"vista",
+				"vista8"
+			],
+			[
+				"Vist",
+				"vista10"
+			],
+			[
+				"s",
+				"servicio"
+			],
+			[
+				"v",
+				"vista4"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"B",
+				"B"
+			],
+			[
+				"e",
+				"empleadomixup"
+			],
+			[
+				"ed",
+				"estado"
+			],
+			[
+				"prove",
+				"proveedor"
+			],
+			[
+				"soci",
+				"socio"
+			],
+			[
+				"pe",
+				"proveedorsams"
+			],
+			[
+				"ids",
+				"idservicio"
+			],
+			[
+				"proc",
+				"procedure"
+			],
+			[
+				"socio",
+				"socioclub"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"rf",
+				"rf2"
+			],
+			[
+				"cas",
+				"caso2"
+			],
+			[
+				"elem",
+				"elementos"
+			],
+			[
+				"ele",
+				"elementos"
+			],
+			[
+				"de",
+				"def	Function"
+			],
+			[
+				"ra",
+				"raw_input"
+			],
+			[
+				"par",
+				"palabra"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 919,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/factory/factory.js",
+			"settings":
+			{
+				"buffer_size": 201,
+				"line_ending": "Unix",
+				"name": "factory.js"
+			}
+		},
+		{
+			"file": "app/app.js",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Unix",
+				"name": "app.js"
+			}
+		},
+		{
+			"file": "routes/routes.js",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/planet/planet.html",
+			"settings":
+			{
+				"buffer_size": 182,
+				"line_ending": "Unix",
+				"name": "planet.html"
+			}
+		},
+		{
+			"file": "app/components/planet/planet.js",
+			"settings":
+			{
+				"buffer_size": 404,
+				"line_ending": "Unix",
+				"name": "planet.js"
+			}
+		},
+		{
+			"file": "app/components/character/character.js",
+			"settings":
+			{
+				"buffer_size": 442,
+				"line_ending": "Unix",
+				"name": "character.js"
+			}
+		},
+		{
+			"file": "app/components/character/character.html",
+			"settings":
+			{
+				"buffer_size": 221,
+				"line_ending": "Unix",
+				"name": "character.html"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/danyparc/Escritorio/devf/starwars",
+		"/home/danyparc/Escritorio/devf/starwars/app",
+		"/home/danyparc/Escritorio/devf/starwars/app/components",
+		"/home/danyparc/Escritorio/devf/starwars/app/components/character",
+		"/home/danyparc/Escritorio/devf/starwars/app/components/planet",
+		"/home/danyparc/Escritorio/devf/starwars/app/factory",
+		"/home/danyparc/Escritorio/devf/starwars/routes"
+	],
+	"file_history":
+	[
+		"/home/danyparc/Escritorio/devf/rutas/index.html",
+		"/home/danyparc/Escritorio/devf/rutas/app/app.js",
+		"/home/danyparc/Escritorio/devf/starwars/app/routes.js",
+		"/home/danyparc/Escritorio/devf/rutas/app/routes/routes.js",
+		"/home/danyparc/Escritorio/devf/rutas/app/components/form.html",
+		"/home/danyparc/Escritorio/devf/rutas/app/components/card.html",
+		"/home/danyparc/Escritorio/devf/rutas/app/components/formcomp.js",
+		"/home/danyparc/Escritorio/devf/rutas/app/components/cardcomponent.js",
+		"/home/danyparc/Escritorio/devf/practica3/app.js",
+		"/home/danyparc/Escritorio/devf/practica3/caja.html",
+		"/home/danyparc/Escritorio/dev/platzijs/index.html",
+		"/home/danyparc/Escritorio/devf/repaso/app.js",
+		"/home/danyparc/Escritorio/devf/anguila/index.html",
+		"/home/danyparc/Escritorio/devf/rutas/app/routes.js",
+		"/home/danyparc/Escritorio/devf/rutas/app.js",
+		"/home/danyparc/Escritorio/devf/repaso/index.html",
+		"/home/danyparc/Escritorio/devf/material/index.html",
+		"/home/danyparc/Escritorio/devf/anguila/app.js",
+		"/home/danyparc/Escritorio/devf/horastrab.js",
+		"/home/danyparc/Escritorio/super/README.md",
+		"/home/danyparc/Escritorio/devf/Archivo1/README.md",
+		"/home/danyparc/Escritorio/devf/ejerciciogit/README.md",
+		"/home/danyparc/Escritorio/ejercicio1/README.md",
+		"/home/danyparc/Escritorio/traduccion.txt",
+		"/home/danyparc/Escritorio/dev/ChurchillHouse-master/harrogate.html",
+		"/home/danyparc/Escritorio/dev/ChurchillHouse-master/summer.html",
+		"/home/danyparc/Escritorio/dev/ChurchillHouse-master/index.html",
+		"/home/danyparc/Escritorio/dev/ChurchillHouse-master/contact.html",
+		"/home/danyparc/Escritorio/dev/ChurchillHouse-master/aboutus.html",
+		"/home/danyparc/Escritorio/dev/ChurchillHouse-master/howto.html",
+		"/home/danyparc/Escritorio/dev/ChurchillHouse-master/pamphlet.html",
+		"/home/danyparc/Escritorio/super/conecta.py",
+		"/home/danyparc/Escritorio/dev/cats.html",
+		"/home/danyparc/Escritorio/super/templates/index.html",
+		"/home/danyparc/Escritorio/super/templates/base.html",
+		"/home/danyparc/Escritorio/super/templates/postear.html",
+		"/home/danyparc/Descargas/procedures.sql",
+		"/home/danyparc/Escritorio/super/templates/ticket.html",
+		"/home/danyparc/Escritorio/super/templates/productop.html",
+		"/home/danyparc/Escritorio/super/templates/topdep.html",
+		"/home/danyparc/Escritorio/super/carnalmart.py",
+		"/home/danyparc/Escritorio/super/templates/productos.html",
+		"/home/danyparc/Escritorio/super/templates/ventasmes.html",
+		"/home/danyparc/Escritorio/super/templates/caja.html",
+		"/home/danyparc/Escritorio/super/regis.sql",
+		"/home/danyparc/Escritorio/Web_Scraping/funciona.csv",
+		"/home/danyparc/Escritorio/Web_Scraping/my.csv",
+		"/home/danyparc/Escritorio/Web_Scraping/csv.js",
+		"/home/danyparc/Escritorio/carnalmart1.sql",
+		"/home/danyparc/Escritorio/super/conecta2.py",
+		"/home/danyparc/Escritorio/prac/Teoria/turing.py",
+		"/home/danyparc/Escritorio/flask/setup.py",
+		"/home/danyparc/Escritorio/flask/docs/quickstart.rst",
+		"/home/danyparc/Escritorio/mydb.sql",
+		"/home/danyparc/Escritorio/prac/Teoria/maquina.py",
+		"/home/danyparc/Escritorio/prac/Teoria/MT.py",
+		"/home/danyparc/Descargas/heartebreakersadecv.sql",
+		"/home/danyparc/Escritorio/dev/churchill/aboutus.html",
+		"/home/danyparc/Escritorio/super/templates/user.html",
+		"/home/danyparc/Escritorio/super/templates/consulta.html",
+		"/home/danyparc/Escritorio/super/templates/submited.html",
+		"/home/danyparc/Escritorio/super/templates/forms.html",
+		"/home/danyparc/Escritorio/flask/examples/jqueryexample/templates/layout.html",
+		"/home/danyparc/Escritorio/flask/examples/blueprintexample/simple_page/templates/pages/layout.html",
+		"/home/danyparc/Escritorio/super/helloworld.py",
+		"/home/danyparc/Escritorio/flask/examples/jqueryexample/jqueryexample.py",
+		"/home/danyparc/Escritorio/flask/examples/jqueryexample/templates/index.html",
+		"/home/danyparc/Escritorio/flask/examples/persona/README.md",
+		"/home/danyparc/Escritorio/flask/examples/persona/persona.py",
+		"/home/danyparc/Escritorio/dev/sup.html",
+		"/home/danyparc/Escritorio/prac/db/procs.sql",
+		"/media/danyparc/UBUNTU 16_0/cueros.sql",
+		"/home/danyparc/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/danyparc/Escritorio/hola.py",
+		"/home/danyparc/Escritorio/flaskr/schema.sql",
+		"/home/danyparc/Escritorio/flaskr/flask/examples/flaskr/flaskr.py",
+		"/home/danyparc/Escritorio/flaskr/flaskr.py",
+		"/home/danyparc/Escritorio/Documento sin título 1",
+		"/home/danyparc/Escritorio/prac/empresa.sql",
+		"/home/danyparc/Escritorio/archi.txt",
+		"/home/danyparc/Escritorio/prac/db/prac11.sql",
+		"/home/danyparc/Escritorio/super/index.html",
+		"/home/danyparc/Escritorio/prac/yielci.py",
+		"/home/danyparc/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/danyparc/Escritorio/super/__init__.py",
+		"/home/danyparc/Escritorio/prac/db/P10DB.sql",
+		"/home/danyparc/Escritorio/prac/cag.py",
+		"/home/danyparc/Escritorio/prac/DBP8.sql",
+		"/home/danyparc/Escritorio/prac/Teoria/p7tc.py",
+		"/home/danyparc/Escritorio/prac/chomtogrei.py",
+		"/home/danyparc/Escritorio/prac/glccad.py",
+		"/home/danyparc/Escritorio/p8-1.cpp",
+		"/home/danyparc/Escritorio/prac/dbP7.sql",
+		"/home/danyparc/Escritorio/prac/glc.py",
+		"/home/danyparc/Escritorio/prac/calcu.py",
+		"/home/danyparc/Escritorio/prac/Teoria/p7/poten.c",
+		"/home/danyparc/Escritorio/prac/recu.py",
+		"/home/danyparc/Escritorio/prac/pglc.py",
+		"/media/danyparc/FEF8D344F8D2F9BB/Users/danyel/Desktop/PYRAMIDEV/scpw4.sql",
+		"/media/danyparc/FEF8D344F8D2F9BB/Users/danyel/Desktop/PYRAMIDEV/Medical Services/medicalservices.mx/scpw4.sql",
+		"/home/danyparc/Escritorio/prac/Teoria/p7/potencias iguales.c",
+		"/media/danyparc/FEF8D344F8D2F9BB/Users/danyel/Desktop/ESCOM4/TC/Practicas/p7/potencias iguales.c",
+		"/home/danyparc/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	\n",
+			"config",
+			"lenght",
+			"identificar",
+			"Ticket",
+			"Ticketc",
+			"for",
+			"producto",
+			"numero",
+			"i",
+			"[i]",
+			"i",
+			"tape",
+			"numero",
+			"href",
+			"k"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								889,
+								889
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/factory/factory.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"auto_name": "factory.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"auto_name": "app.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "routes/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								347,
+								347
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/components/planet/planet.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"auto_name": "planet.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/components/planet/planet.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"auto_name": "planet.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/components/character/character.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"auto_name": "character.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/components/character/character.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"auto_name": "character.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "starwars.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
